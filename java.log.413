@@ -1,0 +1,4 @@
+  Operating System: Darwin 11.2.0 Darwin Kernel Version 11.2.0: Tue Aug  9 20:54:00 PDT 2011; root:xnu-1699.24.8~1/RELEASE_X86_64 x86_64
+  Processor ID:     x86 Family 6 Model 10 Stepping 7, GenuineIntel
+  Host Name:        yutes-MacBook-Air.local
+Invalid memory access of location 0x0 rip=0x7fff85250fc8
